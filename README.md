@@ -30,5 +30,3 @@ The application is also capable of showing various messages which include: -
 ![5](https://user-images.githubusercontent.com/32307505/40165776-7c2cfbe2-59da-11e8-9bdc-b5b6030984b8.jpg)
 
 ![6](https://user-images.githubusercontent.com/32307505/40165788-8416ecd2-59da-11e8-9f46-047800232781.jpg)
-#GLA-BankManagement
-# Anu
